@@ -38,9 +38,6 @@ public class Highscore {
 	public void setScore(Integer score) {
 		this.score = score;
 	}
-
-
-    
     
 }
 
